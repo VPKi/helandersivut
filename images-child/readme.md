@@ -1,0 +1,1 @@
+Kansio sisältää staattiset kuvat
